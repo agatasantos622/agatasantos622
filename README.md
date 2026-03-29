@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou a Ágata 👋
 
-<!--
-**agatasantos622/agatasantos622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Backend em formação  
+🎓 Análise e Desenvolvimento de Sistemas  
+🚀 Focada em construção de APIs e lógica de programação  
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias
+- Python
+- Rust
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- Sistema de Busca de Produtos (Rust) – foco em performance e manipulação de dados  
+- Sistema de Controle de Estoque (Python + MySQL) – aplicação CRUD com persistência em banco de dados  
+- Sistema Orientado a Objetos em Python – aplicação utilizando conceitos de classes, encapsulamento e organização de código
+
+## 🎯 Objetivo
+Buscando oportunidade de estágio ou posição júnior em desenvolvimento backend.
+
+🔗 LinkedIn: https://www.linkedin.com/in/agata-santos-dev
